@@ -38,7 +38,7 @@ Write journal entries for workouts and daily fitness notes
 
 (Add screenshots here if you want — especially your Replify cover image)
 
-# # 📬 Contact
+#  📬 Contact
 Email: carson.blaker@drake.edu
 LinkedIn: https://www.linkedin.com/in/carsonblaker
 GitHub: https://github.com/Carsonblaker
